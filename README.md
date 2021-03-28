@@ -13,8 +13,7 @@
 
 - 📫 How to reach me **support@dfeverx.in**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dfeverx&show_icons=true&locale=en&layout=compact" alt="dfeverx" /></p>
-
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=dfeverx&show_icons=true&locale=en&layout=compact" alt="dfeverx" /></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dfeverx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dfeverx" height="30" width="40" /></a>
