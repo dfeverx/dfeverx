@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm dfevex</h1>
-<h3 align="center">A passionate  developer from UK(United Kasaragod)😲 </h3>
+<h3 align="center">A passionate  developer from UK(United <b>Kasaragod</b>)😲 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dfeverx&label=Profile%20views&color=0e75b6&style=flat" alt="dfeverx" /> </p>
 
