@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **kotlin,android,javascript,nodejs**
 
-- 📫 How to reach me **support@dfeverx.in**
+- 📫 How to reach me **hi@dfeverx.com**
 
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=dfeverx&show_icons=true&locale=en&layout=compact" alt="dfeverx" /></p>
 <h3 align="left">Connect with me:</h3>
